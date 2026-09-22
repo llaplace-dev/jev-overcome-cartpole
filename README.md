@@ -10,7 +10,7 @@ The answer is yes. Starting with a minimal prompt, the agent was refined through
 three versions. In a representative experiment, the final version, v3,
 completed the full 500-step CartPole episode.
 
-The agents are in [`jev-overcome-cartpole/`](jev-overcome-cartpole/):
+The agents are in [`./`](/):
 
 - [`naive_jev_cartpole_agent.py`](jev-overcome-cartpole/naive_jev_cartpole_agent.py)
 - [`jev_cartpole_agent_v1.py`](jev-overcome-cartpole/jev_cartpole_agent_v1.py)
