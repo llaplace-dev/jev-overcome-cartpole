@@ -166,7 +166,7 @@ source .venv/bin/activate
 python3 -m pip install -r requirements.txt
 ```
 
-Set the TypeSafe key without committing it to the repository:
+Set the TypeSafe key:
 
 ```bash
 export TYPESAFE_API_KEY="your TypeSafe API key"
